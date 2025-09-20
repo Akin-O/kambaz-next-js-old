@@ -13,7 +13,6 @@ export default function Assignments() {
             A1 - ENV + HTML
           </link> </li>
         <li className="wd-assignment-list-item">
-          {/* Complete On Your Own */}
         </li>
       </ul>
     </div>
